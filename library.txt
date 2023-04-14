@@ -1,0 +1,8 @@
+Delta V, Daniel Suaarez, 2019, 5.0, 437
+Harry Potter and the Sorcerer's Stone, J.K. Rowling, 1997, 4.5, 223
+Harry Potter and the Chamber of Secrets, J.K. Rowling, 1998, 4.4, 251
+Harry Potter and the Prisoner of Azkaban, J.K. Rowling, 1999, 4.7, 317
+Harry Potter and the Goblet of Fire, J.K. Rowling, 2000, 4.5, 636
+Harry Potter and the Order of the Phoenix, J.K. Rowling, 2003, 5.0, 766
+Harry Potter and the Half-Blood Prince, J.K. Rowling, 2005, 4.9, 672
+Harry Potter and the Deathly Hallows, J.K. Rowling, 2007, 5.0, 784
